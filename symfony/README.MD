@@ -1,0 +1,1 @@
+See documentation [https://www.cloudpanel.io/docs/cloudpanel-ce/guides/php/opcache-preload](https://www.cloudpanel.io/docs/cloudpanel-ce/guides/php/opcache-preload)
